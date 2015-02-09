@@ -1,0 +1,40 @@
+.main {
+	padding:10px;
+	margin:auto;
+	font-size:22px;
+}
+
+.block-all{
+	background: url('fon.gif') ;
+}
+.block-main{
+	background-color: #fff;
+}
+.block-top{
+	height:10px;
+}
+.logo{
+	padding:10px;
+}
+.enter{
+	padding:10px;
+}
+
+.menu-top{
+	padding:10px;
+	float:left;
+}
+.registration{
+	padding:10px;
+}
+.bsket{
+	padding:10px;
+}
+
+.block-menu-left{
+	
+	ul{
+		float:left;
+		list-style-type: none;
+	}
+}

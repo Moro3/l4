@@ -1,0 +1,1 @@
+alert('Файл test.js в папке app/assets/javascripts')
